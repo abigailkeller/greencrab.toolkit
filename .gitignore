@@ -1,0 +1,7 @@
+.Rproj.user
+src/greencrab.toolkit.so
+src/RcppExports.o
+src/stanExports_greencrabtools_dna_only.o
+src/stanExports_greencrabtools_joint.o
+src/stanExports_greencrabtools_trap_only.o
+src/stanExports_greencrabtools_traptypes.o
