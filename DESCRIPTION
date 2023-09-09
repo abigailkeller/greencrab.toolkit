@@ -1,6 +1,6 @@
 Package: greencrab.toolkit
 Title: Run 'Stan' Models to Interpret Green Crab Monitoring Assessments
-Version: 0.1
+Version: 0.2
 Maintainer: Abigail G. Keller <agkeller@berkeley.edu>
 Authors@R: 
     person("Abigail G.", "Keller", role = c("aut", "cre"), email="agkeller@berkeley.edu")
@@ -15,13 +15,13 @@ Imports:
     methods,
     Rcpp (>= 0.12.0),
     RcppParallel (>= 5.0.1),
-    rstan (>= 2.18.1),
+    rstan (>= 2.26.23),
     rstantools (>= 2.2.0)
 LinkingTo: 
     BH (>= 1.66.0),
     Rcpp (>= 0.12.0),
     RcppEigen (>= 0.3.3.3.0),
     RcppParallel (>= 5.0.1),
-    rstan (>= 2.18.1),
+    rstan (>= 2.26.23),
     StanHeaders (>= 2.18.0)
 SystemRequirements: GNU make
